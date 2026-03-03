@@ -5,6 +5,9 @@
 // In React Project directory
 npm install gh-pages --save-dev
 
+//Update vite.config.js
++   base: '/react-todo/',
+
 //Update package.json
 +   "homepage": "https://crossproducts.github.io/react-todo",
 
