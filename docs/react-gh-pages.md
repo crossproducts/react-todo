@@ -6,7 +6,7 @@
 npm install gh-pages --save-dev
 
 //Update package.json
-+   "homepage": "https://crossproducts.github.io/Notes/React/Projects/Todo-List",
++   "homepage": "https://crossproducts.github.io/react-todo",
 
 // Update package.json
 "scripts": {

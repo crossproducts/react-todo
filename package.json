@@ -2,7 +2,7 @@
   "name": "todo-list",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://crossproducts.github.io/Notes/React/Projects/Todo-List",
+  "homepage": "https://crossproducts.github.io/react-todo",
   "type": "module",
   "scripts": {
     "dev": "vite",
